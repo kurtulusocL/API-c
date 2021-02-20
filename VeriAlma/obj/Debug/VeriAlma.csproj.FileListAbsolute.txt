@@ -1,0 +1,10 @@
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\bin\Debug\VeriAlma.exe.config
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\bin\Debug\VeriAlma.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\bin\Debug\VeriAlma.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\obj\Debug\VeriAlma.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\obj\Debug\VeriAlma.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\obj\Debug\VeriAlma.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\obj\Debug\VeriAlma.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\VeriAlma\obj\Debug\VeriAlma.pdb

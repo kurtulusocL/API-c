@@ -1,0 +1,13 @@
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\bin\Debug\AccessTraining.exe.config
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\bin\Debug\AccessTraining.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\bin\Debug\AccessTraining.pdb
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.csprojAssemblyReference.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.Form1.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.Properties.Resources.resources
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.csproj.GenerateResource.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.csproj.CopyComplete
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.exe
+C:\Users\kurtulusocL\Documents\codeProject\C#\API\AccessTraining\obj\Debug\AccessTraining.pdb
